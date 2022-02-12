@@ -15,6 +15,7 @@
 <img src="images/28.jpeg" width="200"/>
 <img src="images/27.jpeg" width="200"/>
 </p>
+
 ### After passing the welcome page, the home page welcomes us.
 
 <p float="left">
@@ -79,6 +80,7 @@
 <img src="images/4.jpeg" width="200"/>
 <img src="images/3.jpeg" width="200"/>
 </p>
+
 ### We can add the tickets we see here to our favorites and buy them later.
 
 <img src="images/9.jpeg" width="200"/>
